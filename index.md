@@ -1,3 +1,0 @@
-# Hello World
-
-Dedicated to Sprawlgeek from yours truly - Gr1dGh0st
