@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Gr1dSec</title>
+    <link>https://gridsec.net/tags/about/</link>
+    <description>Recent content in About on Gr1dSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>gr1dgh0st@gridsec.net (Gr1dGh0st)</managingEditor>
+    <webMaster>gr1dgh0st@gridsec.net (Gr1dGh0st)</webMaster>
+    <copyright> © 2025 Gr1dGh0st</copyright>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gridsec.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://gridsec.net/about/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <author>gr1dgh0st@gridsec.net (Gr1dGh0st)</author>
+      <guid>https://gridsec.net/about/</guid>
+      <description>&lt;p&gt;I am a cybersecurity professional specializing in offensive security and security research. Over the course of my educational and professional career I have earned numerous certifications, given talks, and have done extensive research into computer systems. Some notable contributions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During my time at my university while working for a research lab, I built out a new datacenter cluster for security research and protein folding&lt;/li&gt;
+&lt;li&gt;Managed a university datacenter with over 100 servers&lt;/li&gt;
+&lt;li&gt;Conducted and facilitated international joint military cybersecurity exercises&lt;/li&gt;
+&lt;li&gt;Led several teams including white, red, blue, and green, including serving as lead engineer on multiple projects&lt;/li&gt;
+&lt;li&gt;Presented talks to students and professionals about my research and how to improve the security of computer systems&lt;/li&gt;
+&lt;li&gt;Developed and researched malware that bypasses endpoint detection&lt;/li&gt;
+&lt;li&gt;Written articles on extensive research into Windows architecture and internal systems&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Education, Qualifications, and Certifications 
+    &lt;div id=&#34;education-qualifications-and-certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#education-qualifications-and-certifications&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CRTO&lt;/li&gt;
+&lt;li&gt;PNPT&lt;/li&gt;
+&lt;li&gt;PMRP&lt;/li&gt;
+&lt;li&gt;PCRP&lt;/li&gt;
+&lt;li&gt;Net+&lt;/li&gt;
+&lt;li&gt;Sec+&lt;/li&gt;
+&lt;li&gt;B.S., in Management Information Systems specializing in cybersecurity and a minor in Cybersecurity&lt;/li&gt;
+&lt;li&gt;Member of Synack Red Team (SRT)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Contact Me 
+    &lt;div id=&#34;contact-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#contact-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:gr1dgh0st@gridsec.net&#34;&gt;&lt;u&gt;gr1dgh0st@gridsec.net&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You may encrypt your message via &lt;code&gt;pgp&lt;/code&gt;. If you choose to do so, my public key for communication is below:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gr1dSec</title>
+    <link>https://gridsec.net/posts/</link>
+    <description>Recent content in Posts on Gr1dSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>gr1dgh0st@gridsec.net (Gr1dGh0st)</managingEditor>
+    <webMaster>gr1dgh0st@gridsec.net (Gr1dGh0st)</webMaster>
+    <copyright> © 2025 Gr1dGh0st</copyright>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gridsec.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
