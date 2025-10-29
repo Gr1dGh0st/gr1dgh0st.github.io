@@ -9,7 +9,17 @@
     <managingEditor>gr1dgh0st@gridsec.net (Gr1dGh0st)</managingEditor>
     <webMaster>gr1dgh0st@gridsec.net (Gr1dGh0st)</webMaster>
     <copyright> © 2025 Gr1dGh0st</copyright>
-    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gridsec.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gridsec.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Media</title>
+      <link>https://gridsec.net/media/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <author>gr1dgh0st@gridsec.net (Gr1dGh0st)</author>
+      <guid>https://gridsec.net/media/</guid>
+      <description>This is a collection of all of my public media and files.</description>
+      
+    </item>
     
     <item>
       <title>About</title>
@@ -22,7 +32,7 @@
 &lt;li&gt;During my time at my university while working for a research lab, I built out a new datacenter cluster for security research and protein folding&lt;/li&gt;
 &lt;li&gt;Managed a university datacenter with over 100 servers&lt;/li&gt;
 &lt;li&gt;Conducted and facilitated international joint military cybersecurity exercises&lt;/li&gt;
-&lt;li&gt;Led several teams including white, red, blue, and green, including serving as lead engineer on multiple projects&lt;/li&gt;
+&lt;li&gt;Led several teams including white, red, blue, and green, as well as serving as lead engineer on multiple projects&lt;/li&gt;
 &lt;li&gt;Presented talks to students and professionals about my research and how to improve the security of computer systems&lt;/li&gt;
 &lt;li&gt;Developed and researched malware that bypasses endpoint detection&lt;/li&gt;
 &lt;li&gt;Written articles on extensive research into Windows architecture and internal systems&lt;/li&gt;
